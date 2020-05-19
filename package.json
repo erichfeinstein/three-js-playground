@@ -8,11 +8,14 @@
     "@testing-library/user-event": "^7.2.1",
     "babel-eslint": "10.1.0",
     "cannon": "^0.6.2",
+    "nodemon": "^2.0.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
+    "react-three-fiber": "^4.2.4",
     "three": "^0.116.1",
-    "three-orbit-controls": "^82.1.0"
+    "three-orbit-controls": "^82.1.0",
+    "use-cannon": "^0.4.4"
   },
   "scripts": {
     "start": "react-scripts start",
